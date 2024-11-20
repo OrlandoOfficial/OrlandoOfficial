@@ -5,6 +5,7 @@
 
 <a href="https://chat.whatsapp.com/D4GQwca3m3FANjFOl9cAld"><img src="https://img.shields.io/badge/WhatsApp Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://www.instagram.com/d_orlando1?igsh=MThjeDNocGYzZWZlZQ=="><img src="https://img.shields.io/badge/Instagram-A020F0?style=for-the-badge&logo=instagram&logoColor=white" />
+<a href="https://t.me/d_orlando1"><img src="https://img.shields.io/badge/Telegram-00FFFF?style=for-the-badge&logo=telegram&logoColor=white" />
 
 
 
